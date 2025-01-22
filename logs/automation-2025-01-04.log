@@ -1,0 +1,45 @@
+11:16:08:552 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test failed due to an exception: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+11:16:18:949 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+11:16:19:095 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount link *****
+11:16:19:975 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register Link *****
+11:16:19:982 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing Customer details *****
+11:16:21:605 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message *****
+11:16:21:670 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+11:22:33:724 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\19-09-2024\Opencartv121\crossBrowserTesting.xml
+
+11:22:34:194 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+11:22:34:243 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test failed due to an exception: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+11:22:44:508 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+11:22:44:699 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount link *****
+11:22:45:584 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register Link *****
+11:22:45:592 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing Customer details *****
+11:22:47:106 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message *****
+11:22:47:190 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+11:24:16:510 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\19-09-2024\Opencartv121\crossBrowserTesting.xml
+
+11:24:16:975 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+11:24:17:093 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test failed due to an exception: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+11:24:26:155 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+11:24:26:292 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount link *****
+11:24:27:303 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register Link *****
+11:24:27:309 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing Customer details *****
+11:24:28:946 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message *****
+11:24:29:020 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+11:25:35:016 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\19-09-2024\Opencartv121\crossBrowserTesting.xml
+
+11:25:35:488 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+11:25:35:556 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed due to an exception: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+11:25:44:686 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+11:25:44:828 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount link *****
+11:25:46:358 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register Link *****
+11:25:46:377 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing Customer details *****
+11:25:48:157 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message *****
+11:25:48:221 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+11:28:02:550 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\19-09-2024\Opencartv121\crossBrowserTesting.xml
+
+11:28:02:969 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+11:28:03:029 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed due to an exception: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null

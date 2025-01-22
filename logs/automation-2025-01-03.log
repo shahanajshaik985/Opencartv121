@@ -1,0 +1,65 @@
+13:14:42:313 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message *****
+13:14:42:491 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+13:14:52:432 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest
+13:26:04:009 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\19-09-2024\Opencartv121\grouping.xml
+
+13:27:30:114 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\19-09-2024\Opencartv121\grouping.xml
+
+13:27:40:643 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+13:27:40:948 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount link *****
+13:27:41:959 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register Link *****
+13:27:41:963 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing Customer details *****
+13:27:43:469 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message *****
+13:27:43:518 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+13:27:54:153 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest
+13:41:50:362 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\19-09-2024\Opencartv121\grouping.xml
+
+13:41:59:571 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+13:41:59:740 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount link *****
+13:42:00:601 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register Link *****
+13:42:00:605 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing Customer details *****
+13:42:02:115 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message *****
+13:42:02:180 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+13:42:14:438 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest
+13:47:20:541 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\19-09-2024\Opencartv121\grouping.xml
+
+13:47:29:544 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+13:47:29:707 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount link *****
+13:47:30:653 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register Link *****
+13:47:30:657 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing Customer details *****
+13:47:32:307 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message *****
+13:47:32:352 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+13:47:41:274 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest
+13:57:24:222 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\19-09-2024\Opencartv121\grouping.xml
+
+13:57:32:866 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+13:57:33:123 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount link *****
+13:57:33:977 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register Link *****
+13:57:33:983 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing Customer details *****
+13:57:35:447 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message *****
+13:57:35:502 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+13:57:46:626 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest
+16:29:23:995 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\19-09-2024\Opencartv121\grouping.xml
+
+16:29:47:004 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\19-09-2024\Opencartv121\master.xml
+
+16:31:17:267 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\19-09-2024\Opencartv121\master.xml
+
+16:35:01:746 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\19-09-2024\Opencartv121\master.xml
+
+16:35:42:639 [main] INFO  testCases.TC003_LoginDDT - Starting TC003_LoginDDTTest
+16:38:44:329 [main] INFO  testCases.TC003_LoginDDT - Finished TC003_LoginDDTTest
+16:38:44:359 [main] INFO  testCases.TC003_LoginDDT - Starting TC003_LoginDDTTest
+16:39:10:840 [main] INFO  testCases.TC003_LoginDDT - Finished TC003_LoginDDTTest
+16:39:10:856 [main] INFO  testCases.TC003_LoginDDT - Starting TC003_LoginDDTTest
+16:39:12:705 [main] INFO  testCases.TC003_LoginDDT - Finished TC003_LoginDDTTest
+16:39:12:712 [main] INFO  testCases.TC003_LoginDDT - Starting TC003_LoginDDTTest
